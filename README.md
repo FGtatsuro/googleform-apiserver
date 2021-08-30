@@ -18,6 +18,7 @@ API server for components of Google form
 
    ```bash
    $ npx clasp create --type webapp --title "API server for components of Google form"
+   $ make push
    ```
 
    If you have an existing project, please clone it as follows.
